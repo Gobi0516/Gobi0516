@@ -20,7 +20,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working on **[Online Learning Management System](https://github.com/Gobi0516/OnlineLearningSystem)**
-- 💼 ~7 months of internship experience at **Nilavitech Pty Ltd**, building Spring Boot systems (TigerExpress, Account360, Money Exchange) and a React Native invoicing app
+- 💼 ~12 months of internship experience at **Nilavitech Pty Ltd**, building Spring Boot systems (TigerExpress, Account360, Money Exchange) and a React Native,Fast Api invoicing app
 - 🌱 Currently learning **Node.js**, deepening **AWS / Cloud** skills, and exploring **Blockchain** (vehicle registration & digital rights management)
 - 📝 I occasionally write on [Medium](https://medium.com/@egobinath2001)
 - 💬 Ask me about **Spring Boot, React, React Native, AWS**
