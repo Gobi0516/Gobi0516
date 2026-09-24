@@ -25,7 +25,7 @@
 - 📝 I occasionally write on [Medium](https://medium.com/@egobinath2001)
 - 💬 Ask me about **Spring Boot, React, React Native, AWS**
 - 📫 Reach me at **egobinath2001@gmail.com**
-- ⚡ Fun fact: **I am funny**
+- ⚡ Fun fact: **I am not funny**
 
 ---
 
