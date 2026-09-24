@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Points
 
 <div align="center">
 
